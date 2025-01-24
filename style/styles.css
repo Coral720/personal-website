@@ -3,3 +3,13 @@ body{
     background-image: url('../images/cereal.jpg');
         background-position: top;
 }
+
+#container{
+    margin: 5em auto;
+    width: 700px;
+        background-color: #f5c3c1;
+    height: 400px;
+    color: black;
+    outline-color: black;
+    outline-width: 5px;
+}
