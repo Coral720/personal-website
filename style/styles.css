@@ -2,10 +2,20 @@ body{
     background-color: yellow;
     background-image: url('../images/cereal.jpg');
         background-position: top;
+    font-family: 1em sans-serif;
+}
+
+#header{
+    margin: auto;
+    margin-bottom: -25px;
+    width: 700px;
+        background-color: #43d3f7;
+    height: 75px;
 }
 
 #container{
-    margin: 5em auto;
+    /*margin-top: 0px;*/
+    margin: auto;
     width: 700px;
         background-color: #f5c3c1;
     height: 400px;
