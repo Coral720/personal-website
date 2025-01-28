@@ -1,3 +1,8 @@
+@font-face{
+    font-family: 'Karmatic Arcade';
+    src: url(ka1.ttf);
+}
+
 body{
     background-color: yellow;
     background-image: url('../images/cereal.jpg');
@@ -22,4 +27,8 @@ body{
     color: black;
     outline-color: black;
     outline-width: 5px;
+}
+
+h1{
+    font-family: 'Karmatic Arcade';
 }
