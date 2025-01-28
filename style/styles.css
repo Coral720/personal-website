@@ -14,7 +14,7 @@ body{
     margin: auto;
     margin-bottom: -25px;
     width: 700px;
-        background-color: #43d3f7;
+        background-color: #90f56c;
     height: 75px;
 }
 
@@ -30,5 +30,6 @@ body{
 }
 
 h1{
+    margin: auto;
     font-family: 'Karmatic Arcade';
 }
