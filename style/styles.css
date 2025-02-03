@@ -41,10 +41,11 @@ div, img{
 #container{
     /*margin-top: 0px;*/
     margin: auto;
-    width: 700px;
+    width: 680px;
         background-color: #f79172;
     height: 500px;
     color: black;
     outline-color: black;
     outline-width: 5px;
+    padding: 10px;
 }
