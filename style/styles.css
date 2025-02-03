@@ -10,6 +10,12 @@ body{
     font-family: 1em sans-serif;
 }
 
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
 
 h1{
     margin: auto;
@@ -17,7 +23,7 @@ h1{
     text-align: center;
 }
 
-div{
+div, img{
     border-style: outset;
     border-color: #fc53cf;
     border-width: 5px;
