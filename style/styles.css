@@ -23,13 +23,16 @@ h1{
     text-align: center;
 }
 
-div, img{
+img{
     border-style: outset;
     border-color: #fc53cf;
     border-width: 5px;
 }
 
 #header{
+    border-style: outset;
+    border-color: #fc53cf;
+    border-width: 5px;
     margin: auto;
     margin-bottom: -25px;
     width: 700px;
@@ -37,15 +40,42 @@ div, img{
     height: 75px;
     padding-top: 20px;
 }
+.parent{
+    position: absolute;
+    width: 800px;
+    height: 800px;
+}
 
 #container{
-    /*margin-top: 0px;*/
+    border-style: outset;
+    border-color: #fc53cf;
+    border-width: 5px;
+    /*margin-top: -10px;*/
     margin: auto;
     width: 680px;
         background-color: #f79172;
-    height: 700px;
+    height: 900px;
     color: black;
     outline-color: black;
     outline-width: 5px;
     padding: 10px;
+    position: relative;
+    top:-250px;
 }
+
+#Jama{
+    border-style: outset;
+    border-color: #f5d5ec;
+    position: relative;
+    left: 180px;
+    z-index: 1;
+}
+
+#Chuni{
+    border-style: outset;
+    border-color: #760cf0;
+    position: relative;
+    top:-700px;
+    left: 1050px;
+}
+
