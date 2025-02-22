@@ -40,6 +40,19 @@ img{
     height: 75px;
     padding-top: 20px;
 }
+
+.main-body{
+    border-style: outset;
+    border-color: #fc53cf;
+    border-width: 5px;
+    width: 660px;
+        background-color: #85ffbc;
+    height: 750px;
+    margin: auto;
+    margin-top: 20px;
+    padding: 20px;
+
+}
 .parent{
     position: absolute;
     width: 800px;
