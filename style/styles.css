@@ -4,8 +4,8 @@
 }
 
 body{
-    background-color: lightgreen;
-    background-image: url('../images/carrots.png');
+    background-color: #00ff11;
+    background-image: url('../images/carroths.png');
         background-position: top;
     font-family: 1em sans-serif;
 }
@@ -18,7 +18,7 @@ body{
 }
 
 .right {
-    float: right;
+    float: left;
     margin-left: 1em;
 }
 
